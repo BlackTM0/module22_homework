@@ -1,0 +1,31 @@
+.icon-button { 
+    background-color: aqua;
+    color: black;
+    padding: 5px 30px;
+    border-radius: 5px;
+    font-size: 16px;
+    transition-duration: 1s;
+    border: none;
+    text-transform: uppercase;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+
+.btn-info { 
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btn-icon { 
+    padding-left: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.icon-button:hover { 
+    background-color: aquamarine;
+    border-radius: 1px;
+}
+

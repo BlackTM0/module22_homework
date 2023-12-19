@@ -1,0 +1,41 @@
+.container{ 
+    width: 450px; 
+    height: 310px;
+    margin: 0 auto;
+    margin-top: 200px;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.2);
+    border: 2px solid burlywood;
+    border-radius: 5px;
+}
+
+.header{ 
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#input{ 
+    width: 210px;
+    border: 3px solid burlywood;
+    border-radius: 5px;
+}
+
+#btn { 
+    border-radius: 5px;
+    background-color: burlywood;
+    font-weight: bold;
+    border: none;
+    padding: 3px 10px;
+}
+
+.chat-area{ 
+    width: 450px;
+    height: 215px;
+    margin-top: 38px;
+    margin-left: 30px;
+}
+
+.question{ 
+    margin-left: 350px;
+}
+
